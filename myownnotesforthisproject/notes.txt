@@ -1,0 +1,18 @@
+
+when we are working with javascript we are like in a code i java import the things on head tag and in the body tag are all the important codeto show on the wesite
+now the jquery or javascropt validation are a the final part of the project like this part:
+
+if (resume.content === ""){
+   hideResume();
+}
+
+
+console.log("hi"); ==> it's used to see what happends in the code to debug if enter in a if sentences or in make a new object, 
+in used aldo to see whatever you nat to show
+
+"undefined" ==> tell us that the console doesn't give us a new savable data, like an object or an array or things like that.
+
+document.UR ==> return us the actual url in a string
+
+$(".super-header-wrapper").html("<img style='width:100%' src='http://goo.gl/WCrBmS'>"); --- its used to locale the superheader wrapper object in the DOM and after to insert an html line that says or shows an image that is located in the url that I've passed on the script.
+
